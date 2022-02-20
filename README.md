@@ -45,8 +45,8 @@ file tersebut berada di folder assets/js/config.js
         
         lisensi: "free",
 
-        wifi_nama: "MetaNET",
-        wifi_slogan: "Internet Cepat, Unlimited.",
+        wifi_nama: "ImunNET",
+        wifi_slogan: "Internet , Unlimited.",
         
         lokasi_nama: "Dayeuhkolot, Bandung.",
 
@@ -60,8 +60,8 @@ file tersebut berada di folder assets/js/config.js
         */
 
         prayTimes: {
-          latitude: -6.9238784,
-          longitude: 107.6166656,
+          latitude: -8.165035,
+          longitude: 112.311955,
           gmt: 7, /* wib = 7, wita = 8, wit = 9 */
 
           hijriahNama: 1, /* 0 atau 1 */ 
@@ -77,9 +77,9 @@ file tersebut berada di folder assets/js/config.js
         },
 
         kontak: { // akan muncul jika lisensi non-free
-          alamat: "Jalan Raya Laswi",
-          hp: "0895-1700-0409",
-          email: "halo@meta.net",
+          alamat: "Jalan Lesanpura Pakel",
+          hp: "0813-8146-9789",
+          email: "imronhz37@gmail.com",
         },
         
         konten: [
@@ -95,11 +95,11 @@ file tersebut berada di folder assets/js/config.js
           data:  [
             {
               waktu: "1 Jam",
-              harga: "Rp1200",
+              harga: "RpKOSONG",
             },
             {
               waktu: "5 Jam",
-              harga: "Rp3000",
+              harga: "KOSONG",
             },
             {
               waktu: "1 Hari",
